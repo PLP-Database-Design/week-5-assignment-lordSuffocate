@@ -14,8 +14,32 @@ This demonstrates the cconnection of MySQL database and Node.js to create a simp
    npm init -y
    ```
 3. Install the necessary dependancies
-   ```
-   npm install express mysql2 dotenv nodemon
+   ```Which approach can help validate your MVP before full-scale launch?
+
+
+Conducting beta testing with a select group of users
+
+
+Collecting feedback from early adopters
+
+
+Monitoring key metrics such as user engagement and retention
+
+
+All of the above
+   Which approach can help validate your MVP before full-scale launch?
+
+
+Conducting beta testing with a select group of users
+
+
+Collecting feedback from early adopters
+
+
+Monitoring key metrics such as user engagement and retention
+
+
+All of the above
    ```
 4. Create a ``` server.js ``` and ```.env``` files
 5. Basic ```server.js``` setup
